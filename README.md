@@ -48,6 +48,3 @@ gcc main.c restaurant.c -o restaurant
 * VIP customers are moved ahead in the list
 * Tables are assigned based on availability and size
 
----
-
-This project was made as part of a Data Structures mini project to practice linked lists and trees in a real-world scenario.
